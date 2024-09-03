@@ -1,16 +1,33 @@
-## Hi there 👋
+# Hi there! I'm Sadheen Hossain! 👋
 
-<!--
-**hsadheen19/hsadheen19** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### About Me
 
-Here are some ideas to get you started:
+A highly motivated and technically skilled IT graduate with a strong academic record and diverse extracurricular accomplishments. With hands-on experience in IT support and digital marketing, I am passionate about leveraging technology to solve complex problems. I am currently focused on advancing my education and technical expertise through a Master’s degree, aiming to contribute to cutting-edge research in Data Science and Management Information Systems.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Skills
+
+- **Analytical Tools:** PowerBI, Advanced Excel, Tableau
+- **Programming Languages:** HTML5, CSS, Python, Java
+- **Database:** MySQL, Microsoft SQL Server
+- **OS and Applications:** Linux, Jupyter Notebook, VS Code
+
+### Experience
+
+- **IT Support**: Hands-on experience in troubleshooting, network management, and customer support.
+- **Digital Marketing**: Expertise in social media management, content creation, and data-driven marketing strategies.
+
+### Research Interests
+
+- Data Science
+- Management Information Systems
+- Network Security in Cloud Storage
+
+### Education
+
+- **B.Tech in Computer Science**: Jain University, India
+
+### Let's Connect!
+
+- [LinkedIn](https://www.linkedin.com/in/sadheen-hossain/)
+- [Email](mailto:h.sadheen@gmail.com)
+
