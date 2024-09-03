@@ -12,16 +12,6 @@
 - **IT Support**: Hands-on experience in troubleshooting, network management, and customer support.
 - **Digital Marketing**: Expertise in social media management, content creation, and data-driven marketing strategies.
 
-### Research Interests
-
-- Data Science
-- Management Information Systems
-- Network Security in Cloud Storage
-
-### Education
-
-- **B.Tech in Computer Science**: Jain University, India
-
 ### Let's Connect!
 
 - [LinkedIn](https://www.linkedin.com/in/sadheen-hossain/)
