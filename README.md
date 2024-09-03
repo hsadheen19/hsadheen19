@@ -1,13 +1,13 @@
 # Hi there! I'm Sadheen Hossain! 👋
 
-### Skills
+### My Skills
 
 - **Analytical Tools:** PowerBI, Advanced Excel, Tableau
 - **Programming Languages:** HTML5, CSS, Python, Java
 - **Database:** MySQL, Microsoft SQL Server
 - **OS and Applications:** Linux, Jupyter Notebook, VS Code
 
-### Experience
+### My Experience
 
 - **IT Support**: Hands-on experience in troubleshooting, network management, and customer support.
 - **Data Science**: Proficient in analyzing data, building models, and deriving actionable insights.
