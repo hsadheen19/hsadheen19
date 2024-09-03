@@ -10,6 +10,7 @@
 ### Experience
 
 - **IT Support**: Hands-on experience in troubleshooting, network management, and customer support.
+- **Data Science**: Proficient in analyzing data, building models, and deriving actionable insights.
 - **Digital Marketing**: Expertise in social media management, content creation, and data-driven marketing strategies.
 
 ### Let's Connect!
