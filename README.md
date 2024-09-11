@@ -4,8 +4,8 @@
 
 - **Analytical Tools:** PowerBI, Advanced Excel, Tableau
 - **Programming Languages:** HTML5, CSS, Python, Java
-- **Database:** MySQL, Microsoft SQL Server
-- **OS and Applications:** Linux, Jupyter Notebook, VS Code
+- **Database:** MySQL, Microsoft SQL Server, DAX
+- **Libraries and Tools:** Jupyter Notebook, Pandas, NumPy, VS Code
 
 ### My Experience
 
